@@ -3,10 +3,12 @@
 ## Complete Hardware Specs
 - Xeon E5 2640-V3 @ In Stock
 - Machinist X99 P4
-- RX 5500 XT - 51 RISC
-- 1x 16Gb DRR4 2666Mhz Juhor
+- RX 5500 XT 8Gb - 51 RISC
+- 1x 8Gb DRR4 2666Mhz Juhor
+- 1X 16Gb DDR4 2666Mhz Kingston
 - Wifi & Bluetooth Intel AX200
 - Vention USB Audio Card
+- Kingston NV2 500 GB
 
 ## What Works
 - macOS Ventura 14.0
